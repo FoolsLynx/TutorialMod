@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SC45/JKZgPyMyqLQuaRV2HGxLniVsQDMvYZJLxpdqczb0LQ07JjOysSZKNn4NLLe3FCy38Q0n9FWPr/MSj55ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FoolsLynx\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\TutorialMod\\TutorialMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FoolsLynx\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

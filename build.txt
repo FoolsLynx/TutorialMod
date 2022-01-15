@@ -1,0 +1,3 @@
+displayName = Tutorial Mod
+author = FoolsLynx
+version = 0.1
