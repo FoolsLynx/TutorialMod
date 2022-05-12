@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework;
 
 namespace TutorialMod.Content.Tiles
 {
-    internal class TutorialOre : ModTile
+    internal class TutorialRareOre : ModTile
     {
         public override void SetStaticDefaults()
         {
@@ -19,10 +19,10 @@ namespace TutorialMod.Content.Tiles
             Main.tileSpelunker[Type] = true;
             Main.tileOreFinderPriority[Type] = 350;
 
-            AddMapEntry(new Color(146, 161, 185), CreateMapEntryName());
+            AddMapEntry(new Color(185, 170, 146), CreateMapEntryName());
 
             DustType = DustID.Tungsten;
-            ItemDrop = ModContent.ItemType<Items.Placeables.TutorialOre>();
+            ItemDrop = ModContent.ItemType<Items.Placeables.TutorialRareOre>();
             SoundType = SoundID.Tink;
             SoundStyle = 1;
 

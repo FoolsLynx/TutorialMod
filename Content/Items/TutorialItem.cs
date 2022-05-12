@@ -9,8 +9,6 @@ namespace TutorialMod.Content.Items
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Tutorial Item");
-            Tooltip.SetDefault("This is a Tutorial Material\nThis is line 2");
             // This accesses the creative catalog
             // Setting the research number to 100 before it can be fully accessed
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 100;

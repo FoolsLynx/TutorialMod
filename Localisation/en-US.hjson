@@ -1,0 +1,33 @@
+﻿Mods:{
+	TutorialMod:{
+		ItemName:{
+			TutorialBar:"Tutorialite Bar"
+			TutorialOre:"Tutorialite Ore"
+
+			TutorialRareBar:"Super Tutorialite Bar"
+			TutorialRareOre:"Super Tutorialite Ore"
+
+			TutorialAxe:"Tutorialite Axe"
+			TutorialHammer:"Tutorialite Hammer"
+			TutorialPickaxe:"Tutorialite Pickaxe"
+
+			TutorialShortsword:"Tutorialite Shortsword"
+			TutorialSword:"Tutorialite Broadsword"
+
+			TutorialItem:"Generic Item"
+		}
+
+		ItemTooltip:{
+			TutorialAxe:"A Modded Axe"
+			TutorialHammer:"A Modded Hammer"
+			TutorialPickaxe:"A Modded Pickaxe"
+		}
+
+		MapObject:{
+			TutorialOre:"Tutorialite"
+			TutorialRareOre:"Super Tutorialite"
+		}
+	
+	}
+
+}
