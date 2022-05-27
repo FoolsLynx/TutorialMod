@@ -23,8 +23,8 @@ namespace TutorialMod.Content.Tiles
 
             DustType = DustID.Tungsten;
             ItemDrop = ModContent.ItemType<Items.Placeables.TutorialOre>();
-            SoundType = SoundID.Tink;
-            SoundStyle = 1;
+            
+            HitSound = SoundID.Tink;
 
             MineResist = 1.5f;
             MinPick = 60;
