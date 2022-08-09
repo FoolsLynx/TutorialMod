@@ -25,6 +25,10 @@
 			TutorialPickaxe:"A Modded Pickaxe"
 		}
 
+		ItemSetBonus:{
+			TutorialSet:"Increase Speed"
+		}
+
 		MapObject:{
 			TutorialOre:"Tutorialite"
 			TutorialRareOre:"Super Tutorialite"

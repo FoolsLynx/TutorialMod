@@ -7,6 +7,8 @@ namespace TutorialMod.Content.Items
 {
     internal class TutorialItem : ModItem
     {
+        // SetStaticDefaults sets values that cannot be changed during gameplay. These include things such as:
+        // Display Name, Tooltips, Creative Menu and many other things
         public override void SetStaticDefaults()
         {
             // This accesses the creative catalog
@@ -14,6 +16,7 @@ namespace TutorialMod.Content.Items
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 100;
         }
 
+        // SetDefaults sets the values for the item that in some cases cam be changed during gameplay.
         public override void SetDefaults()
         {
             Item.width = 16;    // Hitbox Width from Bottom Center

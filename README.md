@@ -14,8 +14,8 @@ This is a list of episodes that have been uploaded along with the plans for upco
 [Episode 4: Basic Ore and Bar](https://www.youtube.com/watch?v=ISc-L5uIrvc)<br>
 [Episode 5: Ore Gen and Localisation](https://youtu.be/YRB6T4KFvV0)<br>
 [Episode 6: Magic Weapon and Projectile](https://youtu.be/UKF05U0HGtw)<br>
-Episode 7: Basic Armour Sets<br>
-Epsiode 8: Basic Accessories<br>
+[Episode 7: Basic Armour Sets](https://youtu.be/7tcxaKhhVsc)<br>
+Epsiode 8: Basic Accessories and Vanity<br>
 Episode 9: Basic Crafting Stations<br>
 Episode 10: Basic Global Classes<br>
 Episode 11: Basic Furniture and Walls<br>
