@@ -20,16 +20,16 @@ Episode 9: Basic Crafting Stations<br>
 Episode 10: Basic Global Classes<br>
 Episode 11: Basic Furniture and Walls<br>
 Episode 12: Ranged Weapon and Ammo<br>
-Episode 13: Basic Enemy NPCs<br>
-Episode 14: Basic Boss NPCs<br>
-Episode 15: Basic Town NPCs<br>
-Episode 16: Summon Weapon and Summon<br>
-Epsiode 17: Basic Sounds and Music<br>
-Episode 18: Basic Biomes<br>
-Episode 19: Array Based Structures<br>
-Episode 20: Code Based Structures<br>
-Episode 21: Basic Potions and Buffs<br>
+Episode 13: Basic Potions And Buffs<br>
+Episode 14: Basic Enemy NPCs<br>
+Episode 15: Basic Boss NPCs<br>
+Episode 16: Basic Town NPCs<br>
+Episode 17: Summon Weapon and Summon<br>
+Epsiode 18: Basic Sounds and Music<br>
+Episode 19: Basic Biomes<br>
+Episode 20: Array Based Structures<br>
+Episode 21: Code Based Structures<br>
 Episode 22: Basic Mounts<br>
 Episode 23: Basic Pets<br>
 Episode 24: Custom Damage Class<br>
-Episode 25: ???<br>
+Episode 25: Glowmasks and Animations<br>
