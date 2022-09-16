@@ -14,6 +14,5 @@
     <Folder Include="Assets\Music\" />
     <Folder Include="Assets\Textures\" />
     <Folder Include="Assets\Sounds\" />
-    <Folder Include="Content\Items\Armours\Vanity\" />
   </ItemGroup>
 </Project>

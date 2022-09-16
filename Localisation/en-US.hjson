@@ -23,6 +23,10 @@
 			TutorialAxe:"A Modded Axe"
 			TutorialHammer:"A Modded Hammer"
 			TutorialPickaxe:"A Modded Pickaxe"
+
+			TutorialStatAccessory:"Increases Weapon Damage by 50%\nIncreases Melee Crit Chance by 20%\nIncreases Melee Knockback by 25%\nIncreases Ranged Attack Speed by 50%\nIncreases Magic Armour Penetration by 5 points."
+			TutorialShoeAccessory:"Increases Move Speed by 50%"
+			TutorialWingAccessory:""
 		}
 
 		ItemSetBonus:{
