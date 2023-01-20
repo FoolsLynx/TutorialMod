@@ -36,7 +36,7 @@ namespace TutorialMod.Content.Items.Placeables
         {
             CreateRecipe()
                 .AddIngredient<TutorialOre>(4)
-                .AddTile(TileID.Furnaces)
+                .AddTile<Tiles.TutorialCustomCrafting>()
                 .Register();
         }
     }
