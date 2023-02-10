@@ -6,7 +6,7 @@ This source will be updated once a video has been uploaded.
 
 ## Episodes
 
-This is a list of episodes that have been uploaded along with the plans for upcoming episodes. These plans may change depending on different things.
+This is a list of the episodes that have been released up to this point in the series. 
 
 [Episode 1: Create Your Mod](https://www.youtube.com/watch?v=hiVW6taKZxc)<br>
 [Episode 2: Basic Item and Swords](https://youtu.be/2HS3OV6xuNI)<br>
@@ -16,20 +16,25 @@ This is a list of episodes that have been uploaded along with the plans for upco
 [Episode 6: Magic Weapon and Projectile](https://youtu.be/UKF05U0HGtw)<br>
 [Episode 7: Basic Armour Sets](https://youtu.be/7tcxaKhhVsc)<br>
 [Episode 8: Basic Accessories and Vanity](https://youtu.be/kfOpQLOEoK4)<br>
-Episode 9: Basic Crafting Stations<br>
-Episode 10: Basic Global Classes<br>
-Episode 11: Basic Furniture and Walls<br>
-Episode 12: Ranged Weapon and Ammo<br>
-Episode 13: Basic Potions And Buffs<br>
-Episode 14: Basic Enemy NPCs<br>
-Episode 15: Basic Boss NPCs<br>
-Episode 16: Basic Town NPCs<br>
-Episode 17: Summon Weapon and Summon<br>
-Episode 18: Basic Sounds and Music<br>
-Episode 19: Basic Biomes<br>
-Episode 20: Array Based Structures<br>
-Episode 21: Code Based Structures<br>
-Episode 22: Basic Mounts<br>
-Episode 23: Basic Pets<br>
-Episode 24: Custom Damage Class<br>
-Episode 25: Glowmasks and Animations<br>
+[Episode 9: Basic Crafting Stations](https://youtu.be/XNtX65Ga9s8)<br>
+
+## Topics to Cover
+
+Below are a list of Topic that are going to be covered in the future. These dont have a set order for release but are listed here so you know what is to come
+
+Global Items, Projectiles, NPCs<br>
+Furniture (Beds, Tables, Clocks)<br>
+Walls<br>
+Potions (Health, Mana and Buff)<br>
+Buffs & Debuffs<br>
+NPCs (Town, Enemy, Boss)<br>
+Sounds & Music<br>
+Biomes<br>
+Structure Generation<br>
+Pets<br>
+Mounts<br>
+Glowmasks<br>
+Animations<br>
+Summon Weapon & Minion<br>
+Ranged Weapon & Ammo<br>
+
