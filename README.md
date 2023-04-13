@@ -17,6 +17,10 @@ This is a list of the episodes that have been released up to this point in the s
 [Episode 7: Basic Armour Sets](https://youtu.be/7tcxaKhhVsc)<br>
 [Episode 8: Basic Accessories and Vanity](https://youtu.be/kfOpQLOEoK4)<br>
 [Episode 9: Basic Crafting Stations](https://youtu.be/XNtX65Ga9s8)<br>
+[Episode 10: Ranged Weapon and Ammo](https://youtu.be/X1-34lk1Qvc)<br>
+
+## Migration
+[Migration 2023.4.20.0](https://youtu.be/b65e7gpaxkE)<br>
 
 ## Topics to Cover
 
