@@ -23,22 +23,5 @@ namespace TutorialMod.Content.Tiles
 
             AddMapEntry(new Color(200, 200, 200), Language.GetText("MapObject.MetalBar"));
         }
-
-        public override bool Drop(int x, int y)
-        {
-            Tile t = Main.tile[x, y];
-            int style = t.TileFrameX / 18;
-
-            switch(style)
-            {
-                case 0: Item.NewItem(new EntitySource_TileBreak(x, y), x * 16, y * 16, 16, 16, ModContent.ItemType<Items.Placeables.TutorialBar>()); break;
-                case 1: Item.NewItem(new EntitySource_TileBreak(x, y), x * 16, y * 16, 16, 16, ModContent.ItemType<Items.Placeables.TutorialRareBar>()); break;
-                case 2:
-                    // ADD THE ITEM
-                    break;
-            }
-
-            return base.Drop(x, y);
-        }
     }
 }

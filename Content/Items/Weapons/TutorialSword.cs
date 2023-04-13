@@ -9,8 +9,6 @@ namespace TutorialMod.Content.Items.Weapons
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Tutorial Sword");
-            Tooltip.SetDefault("This is a modded Broadsword");
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 1;
         }
 

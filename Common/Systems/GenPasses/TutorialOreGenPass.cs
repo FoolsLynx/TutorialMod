@@ -20,7 +20,7 @@ namespace TutorialMod.Common.Systems.GenPasses
             for(int i = 0; i < maxToSpawn; i++)
             {
                 int x = WorldGen.genRand.Next(100, Main.maxTilesX - 100);
-                int y = WorldGen.genRand.Next((int)WorldGen.worldSurface, Main.maxTilesY - 300);
+                int y = WorldGen.genRand.Next((int)GenVars.worldSurface, Main.maxTilesY - 300);
 
                 WorldGen.TileRunner(x, y, WorldGen.genRand.Next(3, 6), WorldGen.genRand.Next(2, 5), ModContent.TileType<TutorialOre>());
             }

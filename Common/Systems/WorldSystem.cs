@@ -7,7 +7,7 @@ namespace TutorialMod.Common.Systems
 {
     internal class WorldSystem : ModSystem
     {
-        public override void ModifyWorldGenTasks(List<GenPass> tasks, ref float totalWeight)
+        public override void ModifyWorldGenTasks(List<GenPass> tasks, ref double totalWeight)
         {
             int shiniesIndex = tasks.FindIndex(t => t.Name.Equals("Shinies"));
             if(shiniesIndex != -1)

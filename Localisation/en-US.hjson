@@ -1,47 +1,180 @@
-﻿Mods:{
-	TutorialMod:{
-		ItemName:{
-			TutorialBar:"Tutorialite Bar"
-			TutorialOre:"Tutorialite Ore"
 
-			TutorialRareBar:"Super Tutorialite Bar"
-			TutorialRareOre:"Super Tutorialite Ore"
-
-			TutorialAxe:"Tutorialite Axe"
-			TutorialHammer:"Tutorialite Hammer"
-			TutorialPickaxe:"Tutorialite Pickaxe"
-
-			TutorialShortsword:"Tutorialite Shortsword"
-			TutorialSword:"Tutorialite Broadsword"
-
-			TutorialItem:"Generic Item"
-
-			TutorialWand:"Tutorialite Wand"
+Mods: {
+	TutorialMod: {
+		ItemName: {
+			TutorialBar: Tutorialite Bar
+			TutorialOre: Tutorialite Ore
+			TutorialRareBar: Super Tutorialite Bar
+			TutorialRareOre: Super Tutorialite Ore
+			TutorialAxe: Tutorialite Axe
+			TutorialHammer: Tutorialite Hammer
+			TutorialPickaxe: Tutorialite Pickaxe
+			TutorialShortsword: Tutorialite Shortsword
+			TutorialSword: Tutorialite Broadsword
+			TutorialItem: Generic Item
+			TutorialWand: Tutorialite Wand
+			TutorialStatAccessory: Tutorialite Bangle
+			TutorialShoeAccessory: Tutorialite Boots
+			TutorialWings: Tutorialite Wings
+			TutorialGun: Tutorialite Pistol
+			TutorialAmmo: Tutorialite Bullet
 		}
 
-		ItemTooltip:{
-			TutorialAxe:"A Modded Axe"
-			TutorialHammer:"A Modded Hammer"
-			TutorialPickaxe:"A Modded Pickaxe"
-
-			TutorialStatAccessory:"Increases Weapon Damage by 50%\nIncreases Melee Crit Chance by 20%\nIncreases Melee Knockback by 25%\nIncreases Ranged Attack Speed by 50%\nIncreases Magic Armour Penetration by 5 points."
-			TutorialShoeAccessory:"Increases Move Speed by 50%"
-			TutorialWingAccessory:""
+		ItemTooltip: {
+			TutorialAxe: A Modded Axe
+			TutorialHammer: A Modded Hammer
+			TutorialPickaxe: A Modded Pickaxe
+			TutorialStatAccessory:
+				'''
+				Increases Weapon Damage by 25%
+				Increases Melee Crit Chance by 20%
+				Increases Melee Knockback by 50%
+				Increases Ranged Attack Speed by 50%
+				Increases Magic Armour Penetration by 5 points.
+				'''
+			TutorialShoeAccessory: Increases Move Speed by 50%
 		}
 
-		ItemSetBonus:{
-			TutorialSet:"Increase Speed"
+		ItemSetBonus.TutorialSet: Increase Speed
+
+		MapObject: {
+			TutorialOre: Tutorialite
+			TutorialRareOre: Super Tutorialite
 		}
 
-		MapObject:{
-			TutorialOre:"Tutorialite"
-			TutorialRareOre:"Super Tutorialite"
+		ProjectileName: {
+			TutorialWandProjectile: Tutorialite Curse
+			TutorialAmmoProjectile: Tutorialite Bullet
 		}
 
-		ProjectileName:{
-			TutorialWandProjectile:"Tutorialite Curse"
+		Tiles: {
+			TutorialCustomCrafting.MapEntry: Tutorial Custom Crafting
+			TutorialOre.MapEntry: Tutorial Ore
+			TutorialRareOre.MapEntry: Tutorial Rare Ore
+			TutorialWorkbench.MapEntry: Tutorial Workbench
 		}
-	
+
+		Items: {
+			TutorialShoeAccessory: {
+				DisplayName: Tutorial Shoe Accessory
+				Tooltip: ""
+			}
+
+			TutorialStatAccessory: {
+				DisplayName: Tutorial Stat Accessory
+				Tooltip: ""
+			}
+
+			TutorialWings: {
+				DisplayName: Tutorial Wings
+				Tooltip: ""
+			}
+
+			TutorialBreastplate: {
+				DisplayName: Tutorial Breastplate
+				Tooltip: ""
+			}
+
+			TutorialHelmet: {
+				DisplayName: Tutorial Helmet
+				Tooltip: ""
+			}
+
+			TutorialLeggings: {
+				DisplayName: Tutorial Leggings
+				Tooltip: ""
+			}
+
+			TutorialRobe: {
+				DisplayName: Tutorial Robe
+				Tooltip: ""
+			}
+
+			TutorialVanityShirt: {
+				DisplayName: Tutorial Vanity Shirt
+				Tooltip: ""
+			}
+
+			TutorialBar: {
+				DisplayName: Tutorial Bar
+				Tooltip: ""
+			}
+
+			TutorialCustomCrafting: {
+				DisplayName: Tutorial Custom Crafting
+				Tooltip: ""
+			}
+
+			TutorialOre: {
+				DisplayName: Tutorial Ore
+				Tooltip: ""
+			}
+
+			TutorialRareBar: {
+				DisplayName: Tutorial Rare Bar
+				Tooltip: ""
+			}
+
+			TutorialRareOre: {
+				DisplayName: Tutorial Rare Ore
+				Tooltip: ""
+			}
+
+			TutorialWorkbench: {
+				DisplayName: Tutorial Workbench
+				Tooltip: ""
+			}
+
+			TutorialAxe: {
+				DisplayName: Tutorial Axe
+				Tooltip: ""
+			}
+
+			TutorialHammer: {
+				DisplayName: Tutorial Hammer
+				Tooltip: ""
+			}
+
+			TutorialPickaxe: {
+				DisplayName: Tutorial Pickaxe
+				Tooltip: ""
+			}
+
+			TutorialItem: {
+				DisplayName: Tutorial Item
+				Tooltip: ""
+			}
+
+			TutorialAmmo: {
+				DisplayName: Tutorial Ammo
+				Tooltip: ""
+			}
+
+			TutorialGun: {
+				DisplayName: Tutorial Gun
+				Tooltip: ""
+			}
+
+			TutorialShortsword: {
+				DisplayName: Tutorial Shortsword
+				Tooltip: ""
+			}
+
+			TutorialSword: {
+				DisplayName: Tutorial Sword
+				Tooltip: ""
+			}
+
+			TutorialWand: {
+				DisplayName: Tutorial Wand
+				Tooltip: ""
+			}
+		}
+
+		Projectiles: {
+			TutorialAmmoProjectile.DisplayName: Tutorial Ammo Projectile
+			TutorialShortswordProjectile.DisplayName: Tutorial Shortsword Projectile
+			TutorialWandProjectile.DisplayName: Tutorial Wand Projectile
+		}
 	}
-
 }

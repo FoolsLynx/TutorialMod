@@ -24,16 +24,16 @@ namespace TutorialMod.Content.Tiles
             AddMapEntry(new Microsoft.Xna.Framework.Color(200, 200, 200), CreateMapEntryName());
         }
 
-        public override void KillMultiTile(int i, int j, int frameX, int frameY)
-        {
-            Item.NewItem(
-                new EntitySource_TileBreak(i, j),
-                i * 16,
-                j * 16,
-                48,
-                32,
-                ModContent.ItemType<Items.Placeables.TutorialCustomCrafting>()
-            );
-        }
+        //public override void KillMultiTile(int i, int j, int frameX, int frameY)
+        //{
+        //    Item.NewItem(
+        //        new EntitySource_TileBreak(i, j),
+        //        i * 16,
+        //        j * 16,
+        //        48,
+        //        32,
+        //        ModContent.ItemType<Items.Placeables.TutorialCustomCrafting>()
+        //    );
+        //}
     }
 }
