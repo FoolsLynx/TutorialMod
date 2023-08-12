@@ -13,7 +13,9 @@ namespace TutorialMod.Content.Items
         {
             // This accesses the creative catalog
             // Setting the research number to 100 before it can be fully accessed
-            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 100;
+            //CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 100;
+            Item.ResearchUnlockCount = 100;
+            
         }
 
         // SetDefaults sets the values for the item that in some cases cam be changed during gameplay.

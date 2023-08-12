@@ -18,27 +18,50 @@ This is a list of the episodes that have been released up to this point in the s
 [Episode 8: Basic Accessories and Vanity](https://youtu.be/kfOpQLOEoK4)<br>
 [Episode 9: Basic Crafting Stations](https://youtu.be/XNtX65Ga9s8)<br>
 [Episode 10: Ranged Weapon and Ammo](https://youtu.be/X1-34lk1Qvc)<br>
+[Episode 11: Summon Weapon and Minion]<br>
 
 ## Migration
+
+When tModloader updates, it can sometimes break the mod, if the changes are large then there will be a Migration video to show how to update the mod.
+
 [Migration 2023.4.20.0](https://youtu.be/b65e7gpaxkE)<br>
 
 ## Topics to Cover
 
-Below are a list of Topic that are going to be covered in the future. These dont have a set order for release but are listed here so you know what is to come
+Below is a list of topics that will be covered in the future. Each is under a subheading that they will fit in and will be done in that block. Anything that doesn't fit in a topic is under the Misc banner. 
 
-Global Items, Projectiles, NPCs<br>
-Furniture (Beds, Tables, Clocks)<br>
-Walls<br>
-Potions (Health, Mana and Buff)<br>
-Buffs & Debuffs<br>
-NPCs (Town, Enemy, Boss)<br>
-Sounds & Music<br>
-Biomes<br>
-Structure Generation<br>
-Pets<br>
-Mounts<br>
-Glowmasks<br>
-Animations<br>
-Summon Weapon & Minion<br>
-Ranged Weapon & Ammo<br>
+### World Geneartion
 
+- Basic World Gen
+- Biome Generation
+- Array Based Structure Gen
+- Code Based Structure Gen
+- Custom Biome Pylon
+
+### NPCs
+
+- Basic Enemy NPC
+- Basic Town NPC
+- Basic Boss NPC
+- Worm NPC
+- Multipart NPC
+- NPC Gore and Boss Bars
+ 
+### Globals
+
+- Modify Vanilla Items
+- Modify Vanilla NPCs
+- Modify Vanilla Projectiles
+- Modify Vanilla Buffs
+- Modify Vanilla Tiles & Walls
+
+### Misc
+
+- Custom Music and Sounds
+- Custom Damage Class
+- Custom Pets
+- Custom Mounts
+- Custom Rarities and Prefixes
+- Custom UI
+- Custom TileEntities
+- Custom Commands

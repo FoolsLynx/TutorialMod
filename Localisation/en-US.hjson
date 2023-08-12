@@ -1,4 +1,3 @@
-
 Mods: {
 	TutorialMod: {
 		ItemName: {
@@ -169,12 +168,25 @@ Mods: {
 				DisplayName: Tutorial Wand
 				Tooltip: ""
 			}
+
+			TutorialSummonStaff: {
+				DisplayName: Tutorial Summon Staff
+				Tooltip: ""
+			}
 		}
 
 		Projectiles: {
 			TutorialAmmoProjectile.DisplayName: Tutorial Ammo Projectile
 			TutorialShortswordProjectile.DisplayName: Tutorial Shortsword Projectile
 			TutorialWandProjectile.DisplayName: Tutorial Wand Projectile
+			TutorialMinion.DisplayName: Tutorial Minion
+		}
+
+		Buffs: {
+			TutorialMinionBuff: {
+				DisplayName: Tutorial Minion Buff
+				Description: Mods.TutorialMod.Buffs.TutorialMinionBuff.Description
+			}
 		}
 	}
 }

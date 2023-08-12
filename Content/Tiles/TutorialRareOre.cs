@@ -22,7 +22,6 @@ namespace TutorialMod.Content.Tiles
             AddMapEntry(new Color(185, 170, 146), CreateMapEntryName());
 
             DustType = DustID.Tungsten;
-            ItemDrop = ModContent.ItemType<Items.Placeables.TutorialRareOre>();
 
             HitSound = SoundID.Tink;
 
