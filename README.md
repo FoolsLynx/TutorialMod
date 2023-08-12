@@ -18,7 +18,7 @@ This is a list of the episodes that have been released up to this point in the s
 [Episode 8: Basic Accessories and Vanity](https://youtu.be/kfOpQLOEoK4)<br>
 [Episode 9: Basic Crafting Stations](https://youtu.be/XNtX65Ga9s8)<br>
 [Episode 10: Ranged Weapon and Ammo](https://youtu.be/X1-34lk1Qvc)<br>
-[Episode 11: Summon Weapon and Minion]<br>
+[Episode 11: Summon Weapon and Minion](https://youtu.be/s1w_8WMoqmc)<br>
 
 ## Migration
 
