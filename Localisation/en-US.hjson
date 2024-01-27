@@ -188,5 +188,7 @@ Mods: {
 				Description: Mods.TutorialMod.Buffs.TutorialMinionBuff.Description
 			}
 		}
+
+		NPCs.TutorialZombie.DisplayName: Tutorial Zombie
 	}
 }
