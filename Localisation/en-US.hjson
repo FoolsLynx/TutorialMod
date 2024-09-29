@@ -173,6 +173,16 @@ Mods: {
 				DisplayName: Tutorial Summon Staff
 				Tooltip: ""
 			}
+
+			TutorialBossBag: {
+				DisplayName: Tutorial Boss Bag
+				Tooltip: ""
+			}
+
+			TutorialBossSummon: {
+				DisplayName: Tutorial Boss Summon
+				Tooltip: ""
+			}
 		}
 
 		Projectiles: {
@@ -180,6 +190,7 @@ Mods: {
 			TutorialShortswordProjectile.DisplayName: Tutorial Shortsword Projectile
 			TutorialWandProjectile.DisplayName: Tutorial Wand Projectile
 			TutorialMinion.DisplayName: Tutorial Minion
+			TutorialBossProjectile.DisplayName: Tutorial Boss Projectile
 		}
 
 		Buffs: {
@@ -189,6 +200,9 @@ Mods: {
 			}
 		}
 
-		NPCs.TutorialZombie.DisplayName: Tutorial Zombie
+		NPCs: {
+			TutorialZombie.DisplayName: Tutorial Zombie
+			TutorialBoss.DisplayName: Tutorial Boss
+		}
 	}
 }
